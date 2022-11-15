@@ -1,0 +1,19 @@
+{
+  "name": "australianfaker",
+  "version": "1.0.0",
+  "description": "A faker package for Australian data such as phones, ABNs, Drivers Licences etc. ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/joelcone/australianfaker"
+  },
+  "keywords": [
+    "Australian",
+    "Faker"
+  ],
+  "author": "Joel Cone",
+  "license": "ISC"
+}
